@@ -1,0 +1,147 @@
+body {
+<<<<<<< HEAD
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(88, 28, 135), rgb(15, 23, 42));
+=======
+>>>>>>> 0092eb90e000b4f61587d98e58703cba35e97003
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+<<<<<<< HEAD
+}
+
+main {
+    background-color: #f3d9ff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #0000001a;
+    width: 400px;
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #830cc4;
+    padding-bottom: 10px;
+}
+
+header h1 {
+    font-size: 18px;
+    margin: 0;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+}
+
+header div p {
+    margin-left: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+section {
+    margin-top: 20px;
+}
+
+section h2 {
+    font-size: 16px;
+    margin: 0 0 10px 0;
+}
+
+section div {
+    display: flex;
+    flex-direction: column;
+}
+
+section div button {
+    background-color: #c263f9;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+section div button:hover {
+    background-color: #d58cfc;
+    border-color: #dddddd;
+    color: #e5b3fe;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #830cc4;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+footer button {
+    background-color: #830cc4;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+footer button:hover {
+    background-color: #e5b3fe;
+}
+=======
+    background-color: #f4f4f4;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #0000001a;
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.container select, .container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+.container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.container button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 4px;
+}
+>>>>>>> 0092eb90e000b4f61587d98e58703cba35e97003
